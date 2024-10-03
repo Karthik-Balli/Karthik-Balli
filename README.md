@@ -14,15 +14,9 @@ I'm constantly driven to learn new technologies and collaborate on innovative pr
 ## Languages and Tools:
 
 <p float="left">
-  <img src="(https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svgg" width="100" />
-  <img src="[/img2.png](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)" width="100" /> 
-  <img src="(https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="100" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" alt="JavaScript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="100" alt="ReactJS" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100" alt="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="100" alt="CSS3" />
  </p>
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg | width=100)
 
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
