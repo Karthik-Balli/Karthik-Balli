@@ -13,7 +13,7 @@ I'm constantly driven to learn new technologies and collaborate on innovative pr
 
 ## Languages and Tools:
 
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg = 100x100)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg | width=100)
 
 ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
 
