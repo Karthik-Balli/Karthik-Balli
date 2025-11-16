@@ -3,6 +3,7 @@
 I'm Karthik, a passionate Software Engineer and Engineering Graduate with a deep focus on Full-Stack Development, particularly in the MERN stack (MongoDB, Express, React, Node.js). 
 With experience in building dynamic web applications and optimizing user experiences, I also have a strong foundation in UI/UX design principles. 
 I'm constantly driven to learn new technologies and collaborate on innovative projects that solve real-world problems.
+Turning Ideas🧠 Into a Working Applications✨
 
 
 ## 🔗 Links
